@@ -17,4 +17,4 @@ AI product leader helping large organizations adopt AI. Claude Community Ambassa
 
 ## Find me
 
-[brandonslicklein.com](https://brandonslicklein.com) · [LinkedIn](https://www.linkedin.com/in/brandon-slicklein-046798a1)
+[brandonslicklein.com](https://brandonslicklein.com) · [LinkedIn](https://www.linkedin.com/in/brandon-slicklein)
