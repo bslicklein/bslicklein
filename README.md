@@ -1,16 +1,20 @@
-## Hi there 👋
+# Brandon Slicklein
 
-<!--
-**bslicklein/bslicklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI product leader helping large organizations adopt AI. Claude Community Ambassador for New York City.
 
-Here are some ideas to get you started:
+- Driving enterprise AI adoption for 30,000+ associates at Capital One
+- Trained 1,000+ people to build with AI
+- Host Anthropic's Claude Community in New York (1,100+ guests across NYC events)
+- Former industrial engineer turned product manager: evals, agent orchestration, and AI cost governance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+| Project | What it is |
+|---|---|
+| [Claude Community NYC](https://claudecommunitynyc.com) | Events, resources, and a self-service platform for NYC's Claude ambassadors (Next.js, Supabase, MCP) |
+| [claude-community-brand](https://github.com/bslicklein/claude-community-brand) | A Claude Code skill for Claude Community ambassador brand assets and kit-style icons |
+| AI orchestration & evals | Model routing with human approval for irreversible actions and launch-gate evaluations |
+
+## Find me
+
+[brandonslicklein.com](https://brandonslicklein.com) · [LinkedIn](https://www.linkedin.com/in/brandon-slicklein-046798a1)
